@@ -6,6 +6,7 @@
   --text-primary-color:rgb(255, 255, 255);
   --text-secondry-color:rgb(200, 200, 200);
   --text-tertiary-color:rgb(150, 150, 150);
+  --text-active-color:rgb(24, 24, 24);
   /* spacing */
   --padding-sm: 0.5rem;
   --padding-md: 1rem;
