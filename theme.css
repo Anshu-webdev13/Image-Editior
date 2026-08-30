@@ -2,6 +2,8 @@
   --bg-primary-color: rgb(20, 20, 20);
   --bg-secondry-color: rgb(34, 34, 34);
   --bg-active-color: rgb(233, 233, 233);
+  --bg-danger-color:rgb(200, 50, 50);
+  --bg-success-color:rgb(30, 167, 30);
   /* text color */
   --text-primary-color:rgb(255, 255, 255);
   --text-secondry-color:rgb(200, 200, 200);
@@ -32,8 +34,8 @@
     --font-sixe-xl:1.25rem;
     --font-sixe-2xl:1.5rem;
     /* border radius */
-    --border-radius-sm:0.5rem;
-    --border-radius-md:1rem;
+    --border-radius-sm:0.2rem;
+    --border-radius-md:0.25rem;
     --border-radius-lg:1.5rem;
     --border-radius-xl:2rem;
     --border-radius-2xl:3rem;
